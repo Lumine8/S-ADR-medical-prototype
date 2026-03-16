@@ -1,0 +1,101 @@
+Patient_ID,Age_at_Diagnosis,Gender,Ethnicity,Height_cm,Weight_kg_at_Diagnosis,Amyloidosis_Type,Diagnosis_Method,Organ_Involvement,Primary_Underlying_Disease,Duration_of_Underlying_Disease_years,Family_History_of_Amyloidosis,Dialysis_Status,Dialysis_Start_Year,Transplant_Status,Tocilizumab_Treatment,Date_of_Amyloidosis_Diagnosis
+8b69d941,18,Female,South Asian,148,48.0,AA,Biopsy,Kidney,Rheumatoid Arthritis,4,No,PD,2025.0,Not Listed,Yes,2021-02-24
+a65c4577,49,Female,South Asian,158,54.5,AL,Imaging,Nervous System; Heart,Multiple Myeloma,0,No,PD,2024.0,Transplanted,Yes,2023-11-05
+e8c853fb,69,Female,South Asian,157,65.0,AL,Biopsy,Heart,Multiple Myeloma,0,No,,,Not Listed,No,2023-09-08
+e12c50fc,66,Male,South Asian,159,58.0,AL,Biopsy,Heart; Liver; Nervous System; Soft Tissue,Monoclonal Gammopathy of Undetermined Significance (MGUS),0,No,PD,2024.0,Not Listed,No,2024-07-19
+846d77bc,53,Male,South Asian,153,59.9,ATTRwt,Clinical,Heart; Kidney,Genetic Mutation,0,No,PD,2024.0,Not Listed,No,2023-11-12
+1f3e2197,48,Male,South Asian,168,52.2,Hereditary,Biopsy,Kidney,Other Inflammatory Condition,0,No,,,Listed,Yes,2024-11-16
+0b5d9de8,68,Female,South Asian,164,87.6,AA,Biopsy,Heart,Rheumatoid Arthritis,7,No,Both,,Listed,No,2024-07-11
+6026687f,47,Male,South Asian,160,70.7,AL,Imaging,Heart,Monoclonal Gammopathy of Undetermined Significance (MGUS),0,No,,,Transplanted,No,2023-07-06
+353bf74f,68,Male,South Asian,161,77.1,AL,Imaging,Heart,Multiple Myeloma,0,No,Both,,Listed,Yes,2023-10-04
+ff857f53,44,Female,South Asian,177,73.2,Hereditary,Biopsy,Kidney,Other Inflammatory Condition,0,No,Both,,Listed,No,2024-08-28
+7eab9947,25,Male,African,180,52.9,AL,Imaging,Kidney,Multiple Myeloma,4,Yes,,,Transplanted,Yes,2020-06-11
+8eaad9ac,85,Male,East Asian,175,80.3,ATTR,Clinical,Kidney; GI Tract; Liver,Age-related,3,No,HD,2019.0,Listed,Yes,2019-04-05
+f9ea5be9,45,Female,Hispanic,155,83.3,ATTR,Clinical,Heart,Age-related,3,Yes,,,Transplanted,Yes,2023-10-01
+bd22e0c9,53,Male,African,175,91.5,AL,Imaging,Kidney; Liver; Heart; Soft Tissue,Monoclonal Gammopathy of Undetermined Significance (MGUS),8,No,HD,2025.0,Listed,No,2024-10-17
+abf902cc,22,Male,African,168,59.1,AL,Biopsy,Nervous System; Liver; Kidney,Multiple Myeloma,3,Yes,HD,2024.0,Not Listed,No,2020-06-07
+5c043c73,58,Female,Hispanic,155,74.1,AA,Clinical,Liver,Crohn's Disease,6,Yes,PD,2021.0,Listed,No,2019-01-07
+faf016aa,44,Female,African,163,53.4,AA,Clinical,Heart,Familial Mediterranean Fever,9,Yes,,,Not Listed,No,2018-01-12
+4b15126b,68,Male,South Asian,186,82.9,AA,Clinical,Kidney,Ankylosing Spondylitis,4,No,HD,2020.0,Transplanted,Yes,2018-10-05
+6acccfe6,38,Male,Caucasian,174,61.0,AL,Biopsy,Kidney,Monoclonal Gammopathy of Undetermined Significance (MGUS),7,Yes,PD,2023.0,Transplanted,No,2019-05-24
+fc0ae7d4,31,Female,Caucasian,169,46.9,AL,Imaging,Nervous System; GI Tract,Multiple Myeloma,9,Yes,,,Listed,No,2024-07-05
+dbc1a4f4,70,Female,African,149,68.9,AA,Imaging,Kidney,Familial Mediterranean Fever,10,Yes,PD,2025.0,Listed,Yes,2023-02-19
+1150e361,63,Male,East Asian,166,50.2,ATTR,Clinical,Heart,Genetic Mutation,4,Yes,HD,2022.0,Not Listed,No,2020-06-14
+d540d316,70,Male,East Asian,166,94.1,AL,Imaging,Kidney; Nervous System; Soft Tissue,Multiple Myeloma,10,Yes,HD,2023.0,Transplanted,Yes,2023-12-19
+e8a88fc5,76,Male,Hispanic,149,62.6,AL,Imaging,Liver,Multiple Myeloma,9,No,PD,2024.0,Listed,No,2022-02-27
+2ee9e9e6,79,Female,South Asian,156,83.5,AL,Clinical,Heart,Multiple Myeloma,9,No,PD,2020.0,Transplanted,Yes,2020-11-16
+b67cdb0b,54,Female,Caucasian,188,81.9,AL,Imaging,Liver,Multiple Myeloma,5,No,PD,2022.0,Not Listed,Yes,2018-08-25
+fde70288,70,Male,Caucasian,155,83.4,AL,Biopsy,Heart,Monoclonal Gammopathy of Undetermined Significance (MGUS),9,No,PD,2023.0,Listed,No,2022-01-05
+d390e855,79,Female,Caucasian,155,70.3,AL,Imaging,Heart; Nervous System; Liver; Kidney,Multiple Myeloma,4,No,PD,2024.0,Listed,Yes,2022-10-10
+b204ad35,22,Male,East Asian,149,87.1,ATTRv,Imaging,Liver,Genetic Mutation,7,No,,,Not Listed,Yes,2018-07-26
+bb257cb4,72,Female,African,155,92.8,ATTRwt,Imaging,Heart,Genetic Mutation,8,Yes,PD,2024.0,Transplanted,Yes,2022-02-04
+9ee11691,83,Female,South Asian,185,83.8,ATTR,Biopsy,Heart; Nervous System,Age-related,9,No,,,Listed,No,2023-03-24
+7d687391,64,Female,East Asian,167,71.9,ATTR,Imaging,Kidney,Age-related,3,No,PD,2020.0,Listed,Yes,2019-04-17
+07fcbdbb,51,Female,South Asian,185,59.9,ATTRv,Clinical,Liver,Genetic Mutation,1,No,,,Transplanted,No,2023-09-25
+0043babf,31,Male,African,158,46.7,ATTR,Clinical,Kidney; Heart; Liver,Genetic Mutation,3,Yes,HD,2025.0,Transplanted,Yes,2024-03-14
+52d19177,49,Male,East Asian,154,68.6,AA,Imaging,Kidney,Rheumatoid Arthritis,10,No,PD,2024.0,Transplanted,Yes,2024-09-23
+976462e4,51,Male,South Asian,176,54.0,ATTR,Imaging,Heart; GI Tract; Soft Tissue,Age-related,6,No,,,Not Listed,No,2024-12-14
+a96f5660,48,Female,South Asian,180,46.0,ATTR,Biopsy,Kidney,Age-related,2,No,HD,2024.0,Listed,No,2021-07-28
+9c5c5a44,23,Male,Hispanic,160,63.3,AL,Clinical,Kidney,Monoclonal Gammopathy of Undetermined Significance (MGUS),10,No,PD,2025.0,Transplanted,No,2019-01-03
+d2bb6c92,83,Female,South Asian,178,79.0,AA,Clinical,Kidney,Familial Mediterranean Fever,4,Yes,HD,2024.0,Listed,No,2023-07-21
+144f417c,39,Female,East Asian,182,58.2,AA,Biopsy,Liver,Crohn's Disease,5,Yes,HD,2024.0,Listed,Yes,2018-07-21
+c41ac7a2,48,Male,East Asian,154,89.0,AA,Clinical,Liver; Kidney,Ankylosing Spondylitis,4,No,PD,2022.0,Listed,No,2022-10-13
+c6b49d90,26,Male,African,173,57.3,ATTRwt,Imaging,Heart,Genetic Mutation,2,Yes,HD,2022.0,Transplanted,Yes,2019-08-27
+d013c941,80,Male,African,187,89.9,AL,Imaging,Soft Tissue; Heart; Liver; Kidney,Multiple Myeloma,7,Yes,HD,2022.0,Transplanted,No,2021-05-20
+f3e52905,44,Male,African,181,56.6,AL,Biopsy,Kidney,Multiple Myeloma,4,Yes,PD,2020.0,Not Listed,No,2020-01-27
+a5ab0f07,65,Male,Caucasian,183,71.3,AA,Biopsy,Kidney,Rheumatoid Arthritis,7,Yes,HD,2022.0,Transplanted,Yes,2020-08-26
+6a39280c,78,Female,Caucasian,183,82.6,AL,Biopsy,Liver; Kidney,Monoclonal Gammopathy of Undetermined Significance (MGUS),2,Yes,,,Not Listed,No,2024-04-02
+49777b09,50,Female,Hispanic,147,90.5,ATTR,Biopsy,Soft Tissue; Nervous System,Genetic Mutation,4,No,PD,2023.0,Listed,Yes,2020-03-05
+2aa509bb,38,Male,South Asian,183,74.5,AA,Clinical,Liver,Chronic Osteomyelitis,1,Yes,,,Not Listed,Yes,2023-09-01
+c2facf49,63,Female,East Asian,182,54.9,AL,Imaging,Kidney,Multiple Myeloma,0,Yes,PD,2023.0,Not Listed,Yes,2020-06-15
+80ca9061,25,Female,Hispanic,180,72.1,ATTR,Clinical,Heart,Genetic Mutation,3,Yes,HD,2025.0,Not Listed,No,2021-12-12
+33ad86a3,48,Female,East Asian,178,62.8,AL,Biopsy,Soft Tissue; Liver; GI Tract,Monoclonal Gammopathy of Undetermined Significance (MGUS),7,No,HD,2018.0,Listed,Yes,2018-12-25
+2ff5751d,40,Male,Hispanic,165,64.9,AA,Clinical,Heart; Nervous System; Liver,Chronic Osteomyelitis,0,No,HD,2025.0,Not Listed,No,2020-09-12
+af1a4407,81,Male,African,189,94.1,AA,Imaging,Liver,Familial Mediterranean Fever,10,No,,,Not Listed,No,2020-11-03
+d25f8704,77,Female,East Asian,172,60.3,AA,Biopsy,Liver,Bronchiectasis,0,No,PD,2019.0,Not Listed,No,2018-08-20
+9dc56533,78,Female,Caucasian,189,63.0,AA,Clinical,Heart,Bronchiectasis,0,No,HD,2025.0,Transplanted,Yes,2023-06-20
+0804f6e1,61,Male,East Asian,154,64.0,AL,Biopsy,Heart,Monoclonal Gammopathy of Undetermined Significance (MGUS),3,No,,,Listed,Yes,2023-02-22
+c19017df,51,Male,African,160,58.3,AL,Imaging,Liver,Monoclonal Gammopathy of Undetermined Significance (MGUS),5,No,HD,2024.0,Transplanted,No,2024-05-05
+6b94fe0e,56,Male,Hispanic,159,88.6,ATTR,Imaging,Kidney,Genetic Mutation,8,No,,,Transplanted,No,2022-12-04
+9a1e11e3,54,Male,Caucasian,179,74.8,ATTR,Imaging,Heart,Age-related,5,No,,,Transplanted,Yes,2023-11-09
+e7e66e1d,67,Male,African,154,65.4,AL,Biopsy,Kidney,Multiple Myeloma,0,Yes,,,Listed,No,2024-05-17
+4bedd412,79,Male,Hispanic,166,63.2,ATTR,Clinical,Kidney,Age-related,7,No,PD,2023.0,Transplanted,No,2023-03-13
+2967a699,53,Male,East Asian,190,91.6,AL,Clinical,Heart,Multiple Myeloma,8,Yes,HD,2019.0,Not Listed,Yes,2019-10-06
+f28ef859,52,Male,African,159,59.6,AA,Clinical,Kidney,Bronchiectasis,3,Yes,,,Transplanted,No,2020-12-10
+ce07ad53,27,Male,South Asian,183,56.5,AA,Biopsy,Liver,Crohn's Disease,5,No,PD,2025.0,Listed,No,2023-01-24
+83558af9,84,Male,Hispanic,176,65.2,AA,Clinical,Soft Tissue; Liver; GI Tract; Nervous System,Familial Mediterranean Fever,2,Yes,HD,2023.0,Listed,Yes,2022-02-17
+60c12349,65,Female,South Asian,181,49.7,AA,Imaging,Heart,Familial Mediterranean Fever,8,No,HD,2024.0,Listed,Yes,2024-10-16
+52936067,23,Male,Caucasian,169,94.5,ATTR,Clinical,Kidney; Soft Tissue; Heart,Genetic Mutation,8,Yes,PD,2025.0,Listed,Yes,2022-09-06
+475ec633,44,Female,South Asian,146,88.3,ATTR,Biopsy,Liver,Age-related,5,Yes,,,Listed,Yes,2021-06-23
+506abf6e,67,Female,East Asian,155,68.5,AA,Clinical,Kidney; Soft Tissue; Heart; GI Tract,Bronchiectasis,8,Yes,,,Not Listed,No,2019-02-03
+598743c0,23,Male,South Asian,187,59.8,ATTRwt,Clinical,Liver,Age-related,8,No,PD,2024.0,Not Listed,No,2024-07-24
+10236e3f,61,Male,South Asian,164,49.6,AL,Biopsy,Heart; GI Tract,Monoclonal Gammopathy of Undetermined Significance (MGUS),9,Yes,PD,2023.0,Not Listed,No,2023-07-22
+2f3965f3,75,Female,East Asian,180,58.5,ATTR,Biopsy,Kidney,Age-related,2,No,PD,2021.0,Not Listed,No,2020-12-26
+3f0d6cd3,37,Female,Hispanic,154,78.7,AL,Biopsy,Heart,Multiple Myeloma,4,Yes,PD,2023.0,Not Listed,Yes,2020-10-13
+67e99e76,78,Female,South Asian,152,53.4,AL,Clinical,Liver,Multiple Myeloma,5,No,,,Not Listed,No,2020-09-16
+0815e571,50,Female,Caucasian,159,77.6,AA,Biopsy,GI Tract; Heart,Chronic Osteomyelitis,0,Yes,,,Not Listed,No,2019-12-23
+3e2f2204,76,Male,South Asian,159,62.3,ATTR,Clinical,Heart; Soft Tissue; Kidney,Age-related,3,Yes,PD,2023.0,Transplanted,Yes,2020-05-10
+08f3cd06,52,Male,Caucasian,169,59.6,AA,Biopsy,Kidney,Familial Mediterranean Fever,8,No,PD,2019.0,Not Listed,Yes,2018-05-26
+82c04139,72,Female,African,145,69.7,AL,Clinical,Heart,Monoclonal Gammopathy of Undetermined Significance (MGUS),1,No,,,Transplanted,Yes,2021-09-08
+339f99e8,63,Male,Caucasian,153,54.5,AA,Imaging,Heart; Liver,Familial Mediterranean Fever,6,No,HD,2021.0,Transplanted,No,2019-07-18
+2684ebd1,67,Female,South Asian,190,57.3,ATTR,Clinical,Liver; Nervous System,Age-related,5,No,,,Listed,Yes,2021-02-28
+6500836e,45,Male,African,177,74.5,AL,Imaging,Heart,Multiple Myeloma,9,Yes,,,Transplanted,No,2018-07-21
+7e0c5490,29,Male,South Asian,188,89.5,AL,Clinical,Kidney,Multiple Myeloma,3,No,HD,2023.0,Transplanted,No,2020-10-10
+a09e25f7,78,Male,East Asian,148,88.6,AA,Imaging,Liver,Chronic Osteomyelitis,1,No,HD,2020.0,Not Listed,No,2018-07-23
+c48e2067,60,Male,East Asian,179,71.6,AL,Imaging,Liver,Monoclonal Gammopathy of Undetermined Significance (MGUS),9,No,HD,2020.0,Not Listed,Yes,2020-10-27
+fae818c8,85,Male,African,167,77.2,AL,Biopsy,Liver,Multiple Myeloma,9,Yes,,,Transplanted,Yes,2024-06-15
+6959fde6,49,Male,Hispanic,155,71.9,ATTRwt,Clinical,Heart,Age-related,2,No,,,Listed,No,2022-02-03
+406ed0bd,52,Male,Caucasian,149,66.8,AA,Imaging,Heart,Ankylosing Spondylitis,3,No,PD,2025.0,Transplanted,No,2021-08-14
+cdb0c01e,67,Male,African,150,47.1,AA,Biopsy,Kidney,Familial Mediterranean Fever,6,No,HD,2024.0,Listed,Yes,2024-05-17
+34fa5a75,61,Male,Hispanic,181,45.2,ATTRwt,Biopsy,Heart,Genetic Mutation,3,No,,,Transplanted,No,2019-05-13
+567f94f6,63,Male,East Asian,178,91.8,AA,Imaging,Kidney,Rheumatoid Arthritis,0,No,HD,2025.0,Listed,No,2023-09-24
+93a5eaab,69,Male,South Asian,176,60.3,AA,Clinical,Liver,Rheumatoid Arthritis,4,No,HD,2021.0,Listed,Yes,2018-08-11
+62346c64,49,Female,South Asian,155,62.3,AL,Imaging,Soft Tissue; Nervous System; Kidney,Multiple Myeloma,3,No,HD,2025.0,Not Listed,No,2023-03-25
+c7c19076,76,Male,Caucasian,182,50.1,AA,Clinical,Heart; Soft Tissue; Liver; Kidney,Chronic Osteomyelitis,10,Yes,PD,2024.0,Listed,No,2021-09-18
+2367ee5d,51,Female,African,152,68.8,AL,Biopsy,Kidney,Multiple Myeloma,1,Yes,PD,2020.0,Listed,Yes,2018-07-26
+0cbaa808,59,Male,East Asian,155,66.6,ATTRwt,Clinical,Heart,Age-related,10,Yes,,,Transplanted,Yes,2019-06-25
+5b6579da,81,Male,South Asian,159,59.4,ATTRwt,Clinical,Liver,Genetic Mutation,5,No,HD,2024.0,Not Listed,No,2018-02-21
+48a9a06f,59,Female,Caucasian,188,49.2,AA,Biopsy,Heart,Rheumatoid Arthritis,5,No,,,Transplanted,Yes,2021-01-24
+952a19f9,65,Female,Hispanic,157,75.7,AA,Biopsy,Kidney,Ankylosing Spondylitis,3,No,,,Listed,No,2018-08-06
+433da1c0,79,Female,Hispanic,181,51.4,ATTR,Clinical,Liver,Genetic Mutation,1,Yes,HD,2023.0,Transplanted,Yes,2021-01-02
+57bcb99b,39,Male,African,146,74.4,AA,Biopsy,Liver,Crohn's Disease,7,Yes,HD,2022.0,Listed,Yes,2019-03-26

@@ -1,0 +1,165 @@
+Patient_ID,Treatment_Type,Start_Date,End_Date,Indication
+0043babf,Supportive Care,2024-03-18,2025-09-03,ATTR Management
+0043babf,Hemodialysis,2025-09-06,Ongoing,Renal Failure
+07fcbdbb,Supportive Care,2023-10-13,2023-11-23,Unknown Management
+0804f6e1,Supportive Care,2023-03-07,Ongoing,Unknown Management
+0815e571,Tocilizumab,2020-01-22,2020-05-22,AA Management
+08f3cd06,Tocilizumab,2018-06-21,2019-08-09,AA Management
+08f3cd06,Peritoneal Dialysis,2019-08-12,Ongoing,Renal Failure
+0b5d9de8,Chemotherapy,2024-01-01,Ongoing,Chronic Amyloidosis
+0cbaa808,Supportive Care,2019-07-22,Ongoing,Unknown Management
+10236e3f,Chemotherapy,2023-07-23,2023-10-16,AL Management
+10236e3f,Peritoneal Dialysis,2023-10-17,Ongoing,Renal Failure
+1150e361,Supportive Care,2020-07-14,2022-02-27,ATTR Management
+1150e361,Hemodialysis,2022-03-02,Ongoing,Renal Failure
+144f417c,Tocilizumab,2018-08-16,2024-12-10,AA Management
+144f417c,Hemodialysis,2024-12-11,Ongoing,Renal Failure
+1f3e2197,Chemotherapy,2024-01-01,2024-03-13,Chronic Amyloidosis
+2367ee5d,Chemotherapy,2018-08-19,2020-08-31,AL Management
+2367ee5d,Peritoneal Dialysis,2020-09-02,Ongoing,Renal Failure
+2684ebd1,Supportive Care,2021-03-06,Ongoing,ATTR Management
+2967a699,Hemodialysis,2019-01-27,2019-10-14,Renal Failure
+2967a699,Chemotherapy,2019-10-18,Ongoing,AL Management
+2aa509bb,Tocilizumab,2023-09-22,Ongoing,AA Management
+2ee9e9e6,Peritoneal Dialysis,2020-09-10,2020-11-27,Renal Failure
+2ee9e9e6,Chemotherapy,2020-12-01,Ongoing,AL Management
+2f3965f3,Supportive Care,2021-01-10,2021-07-10,ATTR Management
+2f3965f3,Peritoneal Dialysis,2021-07-14,2021-12-13,Renal Failure
+2ff5751d,Tocilizumab,2020-10-07,2025-10-09,AA Management
+2ff5751d,Hemodialysis,2025-10-11,Ongoing,Renal Failure
+339f99e8,Tocilizumab,2019-08-02,2021-09-20,AA Management
+339f99e8,Hemodialysis,2021-09-21,Ongoing,Renal Failure
+33ad86a3,Hemodialysis,2018-06-18,2019-01-14,Renal Failure
+33ad86a3,Chemotherapy,2019-01-18,2019-04-24,AL Management
+34fa5a75,Supportive Care,2019-05-22,2019-07-13,Unknown Management
+353bf74f,Chemotherapy,2024-01-01,Ongoing,Chronic Amyloidosis
+3e2f2204,Supportive Care,2020-06-08,2023-01-21,ATTR Management
+3e2f2204,Peritoneal Dialysis,2023-01-25,Ongoing,Renal Failure
+3f0d6cd3,Chemotherapy,2020-10-19,2023-12-10,AL Management
+3f0d6cd3,Peritoneal Dialysis,2023-12-13,Ongoing,Renal Failure
+406ed0bd,Tocilizumab,2021-09-09,2025-10-01,AA Management
+406ed0bd,Peritoneal Dialysis,2025-10-02,Ongoing,Renal Failure
+433da1c0,Supportive Care,2021-01-26,2023-06-18,ATTR Management
+433da1c0,Hemodialysis,2023-06-20,Ongoing,Renal Failure
+475ec633,Supportive Care,2021-07-01,Ongoing,ATTR Management
+48a9a06f,Tocilizumab,2021-01-31,Ongoing,AA Management
+49777b09,Supportive Care,2020-03-25,2023-06-13,ATTR Management
+49777b09,Peritoneal Dialysis,2023-06-16,2023-10-17,Renal Failure
+4b15126b,Supportive Care,2018-10-24,2020-06-14,Unknown Management
+4b15126b,Hemodialysis,2020-06-16,2020-11-02,Renal Failure
+4bedd412,Supportive Care,2023-04-11,2023-10-05,ATTR Management
+4bedd412,Peritoneal Dialysis,2023-10-09,Ongoing,Renal Failure
+506abf6e,Supportive Care,2019-02-10,Ongoing,Unknown Management
+52936067,Supportive Care,2022-09-20,2025-03-26,ATTR Management
+52936067,Peritoneal Dialysis,2025-03-27,Ongoing,Renal Failure
+52d19177,Peritoneal Dialysis,2024-06-08,2024-10-17,Renal Failure
+52d19177,Tocilizumab,2024-10-22,Ongoing,AA Management
+567f94f6,Tocilizumab,2023-10-09,2025-09-19,AA Management
+567f94f6,Hemodialysis,2025-09-22,Ongoing,Renal Failure
+57bcb99b,Supportive Care,2019-03-31,2022-12-02,Unknown Management
+57bcb99b,Hemodialysis,2022-12-07,2023-05-13,Renal Failure
+598743c0,Peritoneal Dialysis,2024-06-02,2024-07-30,Renal Failure
+598743c0,Supportive Care,2024-08-03,Ongoing,Unknown Management
+5b6579da,Supportive Care,2018-03-14,2024-05-13,Unknown Management
+5b6579da,Hemodialysis,2024-05-15,Ongoing,Renal Failure
+5c043c73,Tocilizumab,2019-01-08,2021-04-01,AA Management
+5c043c73,Peritoneal Dialysis,2021-04-04,Ongoing,Renal Failure
+6026687f,Chemotherapy,2024-01-01,Ongoing,Chronic Amyloidosis
+60c12349,Hemodialysis,2024-07-23,2024-10-24,Renal Failure
+60c12349,Tocilizumab,2024-10-25,Ongoing,AA Management
+62346c64,Chemotherapy,2023-04-08,2025-06-15,AL Management
+62346c64,Hemodialysis,2025-06-16,Ongoing,Renal Failure
+6500836e,Chemotherapy,2018-08-12,Ongoing,AL Management
+67e99e76,Chemotherapy,2020-10-04,Ongoing,AL Management
+6959fde6,Supportive Care,2022-02-03,Ongoing,Unknown Management
+6a39280c,Chemotherapy,2024-04-12,Ongoing,AL Management
+6acccfe6,Chemotherapy,2019-06-19,2023-07-17,AL Management
+6acccfe6,Peritoneal Dialysis,2023-07-22,Ongoing,Renal Failure
+6b94fe0e,Supportive Care,2022-12-08,2023-05-06,ATTR Management
+7d687391,Supportive Care,2019-05-08,2020-08-10,ATTR Management
+7d687391,Peritoneal Dialysis,2020-08-11,2020-10-21,Renal Failure
+7e0c5490,Chemotherapy,2020-10-29,2023-11-28,AL Management
+7e0c5490,Hemodialysis,2023-12-01,Ongoing,Renal Failure
+7eab9947,Supportive Care,2020-06-11,Ongoing,Unknown Management
+80ca9061,Supportive Care,2021-12-23,2025-11-22,ATTR Management
+80ca9061,Hemodialysis,2025-11-25,Ongoing,Renal Failure
+82c04139,Chemotherapy,2021-10-06,Ongoing,AL Management
+83558af9,Tocilizumab,2022-03-03,2023-02-16,AA Management
+83558af9,Hemodialysis,2023-02-21,Ongoing,Renal Failure
+846d77bc,Dialysis,2024-01-01,Ongoing,Chronic Amyloidosis
+8b69d941,Tocilizumab,2024-05-15,2024-12-30,AA Amyloidosis Management
+8b69d941,Hemodialysis,2025-01-01,2025-11-09,Renal Failure
+8b69d941,PD Catheter Surgery,2025-11-11,2025-11-22,ESRD due to AA Amyloidosis
+8b69d941,Peritoneal Dialysis,2025-11-25,Ongoing,Maintenance Dialysis
+8eaad9ac,Supportive Care,2019-04-21,2019-09-21,ATTR Management
+8eaad9ac,Hemodialysis,2019-09-26,2020-02-13,Renal Failure
+93a5eaab,Supportive Care,2018-09-02,2021-06-30,Unknown Management
+93a5eaab,Hemodialysis,2021-07-05,Ongoing,Renal Failure
+952a19f9,Tocilizumab,2018-08-12,Ongoing,AA Management
+976462e4,Supportive Care,2025-01-08,Ongoing,ATTR Management
+9a1e11e3,Supportive Care,2023-11-30,2024-04-23,ATTR Management
+9c5c5a44,Chemotherapy,2019-01-05,2025-07-15,AL Management
+9c5c5a44,Peritoneal Dialysis,2025-07-20,Ongoing,Renal Failure
+9dc56533,Tocilizumab,2023-06-23,2025-12-16,AA Management
+9dc56533,Hemodialysis,2025-12-17,Ongoing,Renal Failure
+9ee11691,Supportive Care,2023-04-11,Ongoing,ATTR Management
+a09e25f7,Tocilizumab,2018-07-26,2020-11-13,AA Management
+a09e25f7,Hemodialysis,2020-11-14,2021-02-16,Renal Failure
+a5ab0f07,Supportive Care,2020-09-01,2022-01-02,Unknown Management
+a5ab0f07,Hemodialysis,2022-01-05,Ongoing,Renal Failure
+a65c4577,Chemotherapy,2024-01-01,2024-05-30,Chronic Amyloidosis
+a96f5660,Supportive Care,2021-08-14,2024-04-22,ATTR Management
+a96f5660,Hemodialysis,2024-04-26,2024-08-13,Renal Failure
+abf902cc,Chemotherapy,2020-06-27,2024-12-15,AL Management
+abf902cc,Hemodialysis,2024-12-16,Ongoing,Renal Failure
+af1a4407,Tocilizumab,2020-11-17,Ongoing,AA Management
+b204ad35,Supportive Care,2018-08-06,Ongoing,Unknown Management
+b67cdb0b,Chemotherapy,2018-09-07,2022-11-05,AL Management
+b67cdb0b,Peritoneal Dialysis,2022-11-10,2023-01-05,Renal Failure
+bb257cb4,Supportive Care,2022-03-04,2024-12-24,Unknown Management
+bb257cb4,Peritoneal Dialysis,2024-12-28,Ongoing,Renal Failure
+bd22e0c9,Chemotherapy,2024-10-23,2025-08-21,AL Management
+bd22e0c9,Hemodialysis,2025-08-25,Ongoing,Renal Failure
+c19017df,Chemotherapy,2024-05-19,2024-09-30,AL Management
+c19017df,Hemodialysis,2024-10-03,2024-12-14,Renal Failure
+c2facf49,Supportive Care,2020-06-21,2023-02-13,Unknown Management
+c2facf49,Peritoneal Dialysis,2023-02-14,Ongoing,Renal Failure
+c41ac7a2,Peritoneal Dialysis,2022-04-10,2022-11-09,Renal Failure
+c41ac7a2,Tocilizumab,2022-11-10,Ongoing,AA Management
+c48e2067,Hemodialysis,2020-09-11,2020-10-27,Renal Failure
+c48e2067,Chemotherapy,2020-10-28,Ongoing,AL Management
+c6b49d90,Supportive Care,2019-09-06,2022-08-14,Unknown Management
+c6b49d90,Hemodialysis,2022-08-16,Ongoing,Renal Failure
+c7c19076,Tocilizumab,2021-10-08,2024-07-16,AA Management
+c7c19076,Peritoneal Dialysis,2024-07-20,2024-12-26,Renal Failure
+cdb0c01e,Tocilizumab,2024-05-31,2024-12-27,AA Management
+cdb0c01e,Hemodialysis,2024-12-28,Ongoing,Renal Failure
+ce07ad53,Supportive Care,2023-01-28,2025-11-07,Unknown Management
+ce07ad53,Peritoneal Dialysis,2025-11-11,Ongoing,Renal Failure
+d013c941,Chemotherapy,2021-06-12,2022-04-16,AL Management
+d013c941,Hemodialysis,2022-04-21,Ongoing,Renal Failure
+d25f8704,Tocilizumab,2018-09-09,2019-05-15,AA Management
+d25f8704,Peritoneal Dialysis,2019-05-18,Ongoing,Renal Failure
+d2bb6c92,Tocilizumab,2023-08-05,2024-04-18,AA Management
+d2bb6c92,Hemodialysis,2024-04-19,2024-07-31,Renal Failure
+d390e855,Supportive Care,2022-10-24,2024-03-11,Unknown Management
+d390e855,Peritoneal Dialysis,2024-03-15,Ongoing,Renal Failure
+d540d316,Hemodialysis,2023-09-08,2023-12-23,Renal Failure
+d540d316,Chemotherapy,2023-12-28,Ongoing,AL Management
+dbc1a4f4,Tocilizumab,2023-03-01,2025-05-03,AA Management
+dbc1a4f4,Peritoneal Dialysis,2025-05-08,Ongoing,Renal Failure
+e12c50fc,Dialysis,2024-01-01,Ongoing,Chronic Amyloidosis
+e7e66e1d,Chemotherapy,2024-05-30,Ongoing,AL Management
+e8a88fc5,Chemotherapy,2022-03-03,2024-01-22,AL Management
+e8a88fc5,Peritoneal Dialysis,2024-01-26,Ongoing,Renal Failure
+e8c853fb,Chemotherapy,2024-01-01,Ongoing,Chronic Amyloidosis
+f28ef859,Tocilizumab,2020-12-23,Ongoing,AA Management
+f3e52905,Supportive Care,2020-02-09,2020-12-14,Unknown Management
+f3e52905,Peritoneal Dialysis,2020-12-15,Ongoing,Renal Failure
+f9ea5be9,Supportive Care,2023-10-18,Ongoing,ATTR Management
+fae818c8,Chemotherapy,2024-06-17,Ongoing,AL Management
+faf016aa,Tocilizumab,2018-01-19,2018-04-17,AA Management
+fc0ae7d4,Chemotherapy,2024-07-06,Ongoing,AL Management
+fde70288,Chemotherapy,2022-01-09,2023-11-09,AL Management
+fde70288,Peritoneal Dialysis,2023-11-13,2024-01-30,Renal Failure
+ff857f53,Dialysis,2024-01-01,2024-02-18,Chronic Amyloidosis
